@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "Shopify Order Extractor",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A desktop client built using Electron to Extract orders from Shopify store through a private app.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
